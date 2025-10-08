@@ -1,12 +1,11 @@
-**Full-Stack Developer → Web Pentester**
+### 🛡️ Web Pentester | Former Full-Stack Developer
 
-3+ years building modern web applications, now focused on breaking them.  
-Transitioning into cybersecurity with hands-on experience in web application penetration testing.
+With 3+ years of experience building modern web applications, I now focus on breaking them. Specializing in web application security, vulnerability assessment, and penetration testing.
 
-## 🔧 Technical Scope
-- **Web Pentesting**: OWASP Top 10, Burp Suite, vulnerability assessment
-- **Full-Stack Development**: Next.js, React, Node.js, TypeScript, MongoDB
-- **Infrastructure**: Linux, Docker, networking fundamentals
+**🛠️ Technical Arsenal**
+- **Web Security:** OWASP Top 10 • Burp Suite • Vulnerability Assessment
+- **Development:** Next.js • React • Node.js • TypeScript • MongoDB
+- **Infrastructure:** Linux • Docker • Network Security
 
-## 🎯 Current Focus
-Web application security • Vulnerability research • SOC fundamentals
+**🎯 Currently Focusing On**
+Web Application Pentesting • Security Research • SOC Operations
